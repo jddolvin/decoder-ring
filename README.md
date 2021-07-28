@@ -10,7 +10,7 @@ There are four methods of encryption available for your messages.
 - Substitution cipher
 - - After entering your message, you will have to provide a substitution alphabet. 
 - - - This alphabet must be 26 characters long, or it will result in an error. 
-- - For example: > NJKRQDGLYSHTPWOMZAIXUFCVEB
+- - For example: NJKRQDGLYSHTPWOMZAIXUFCVEB
 
 ### Using the application locally (on your own machine)
 This method is not recommended, as the website is already published as indicated above.
