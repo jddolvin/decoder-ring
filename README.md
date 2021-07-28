@@ -11,7 +11,7 @@ For each method, you must select whether you are encoding or decoding a given me
 - - No additional information is required to use the Polybius Square method.
 - Substitution cipher
 - - After entering your message, you will have to provide a substitution alphabet. 
-- - - This alphabet must be 26 characters long, or it will result in an error. 
+- - - This alphabet must be 26 characters long, or it will result in either an error, or the application behaving unexpectedly. 
 - - For example: NJKRQDGLYSHTPWOMZAIXUFCVEB
 
 ### Using the application locally (on your own machine)
