@@ -2,7 +2,9 @@
 ## This is a program that encodes and decodes secret messages.
 ### Using the application
 You may view the deployed website at https://jddolvin.github.io/decoder-ring/.
-There are four methods of encryption available for your messages. 
+There are four methods of encryption/decryption available for your messages. 
+For each method, you must select whether you are encoding or decoding a given message. 
+
 - Caesar Shift
 - - Shift number: This number will be needed by the recipient of the encrypted message.
 - Polybius Square
